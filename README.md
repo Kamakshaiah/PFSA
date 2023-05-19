@@ -1,3 +1,3 @@
 # PfSA
 
-PfSA is a companion site for book Python for Statistical Analysis. 
+PfSA is a companion site for my book - "Data Analytics using Python"
